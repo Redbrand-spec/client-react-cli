@@ -1,0 +1,1 @@
+react-cli, redux, thunk, fetch, работа с localStorage
